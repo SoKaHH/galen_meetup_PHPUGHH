@@ -1,2 +1,2 @@
-# galen_meetup_PHPUGHH
-Presentation from Meetup at PHP-Usergroup Hamburg
+# Responsive Testing mit dem Galen Framework
+Votrag zum Meetup der [PHPUGHH](http://www.meetup.com/de-DE/phpughh/events/228223068/)
